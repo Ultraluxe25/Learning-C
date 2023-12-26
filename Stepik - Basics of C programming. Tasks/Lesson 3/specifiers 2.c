@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 
-int main(void){
+int main(void) {
 	int a = 25;
 	float b = 23.4;
 	double c = 217.876;
