@@ -1,2 +1,3 @@
 # Learning C programming language
-Learning C from many resources
+### Основы программирования на C. Задачи.
+![alt text](image.png)
