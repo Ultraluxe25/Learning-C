@@ -6,10 +6,9 @@
 Помогите Гиллу их исправить.
 
 Sample Input:
-
 6 37 27
-Sample Output:
 
+Sample Output:
 23847
 */
 
